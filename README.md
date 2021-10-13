@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jgw163163
+- 👋 Hi, I’m stephen
 - 👀 I’m interested in python
 - 🌱 I’m currently learning diango
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- my email is wugaojie@3a.exchange
 
 <!---
 jgw163163/jgw163163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
