@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning diango
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- my email is wugaojie@3a.exchange
+- my email is jicheng2005@gmail.com
 
 <!---
 jgw163163/jgw163163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
